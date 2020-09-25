@@ -1,0 +1,2 @@
+# UnsupervisedClustering
+I have installed anaconda in my system. You can refer this Youtube video- https://www.youtube.com/watch?v=YQWAiUhZJX8 for Windows anaconda installation.  After that I installed Jupyter Notebook for python and ML programming which can be easily done after conda installation.  Most importantly, you must have Python 3.0 or any latest python module. Here is the link - https://www.python.org/downloads/  To download the dataset used in my program- http://bit.ly/w-data . You can also add more data in the dataset.
