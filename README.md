@@ -7,10 +7,22 @@ After that I installed Jupyter Notebook for python and ML programming which can 
 
 Most importantly, you must have Python 3.0 or any latest python module. Here is the link - https://www.python.org/downloads/  
 
-TASK 2------- # UnsupervisedClustering (kMeans)
+
+TASK 1 ------ # SUPERVISED LEARNING - LINEAR REGRESSION
+
+
+
+TASK 2 ------ # UNSUPERVISED LEARNING - kMEANS CLUSTERING
 
 The most common and simplest clustering algorithm out there is the K-Means clustering. This algorithms involve you telling the algorithms how many possible cluster (or K) there are in the dataset. The algorithm then iteratively moves the k-centers and selects the datapoints that are closest to that centroid in the cluster.
 
 In this, We need to predict the optimum number of clusters from IRIS data set and visualize it. Let’s start to code our model step by step. You can see sufficient information in the comment lines of the code.
+
+To download the IRIS dataset used in my program- https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view . You can also download it from Kaggle website.
+
+
+TASK 3 ----- # DECISION TREE ALGORITHM. 
+
+I am going to introduce the Decision Tree Classifier Model. I have used IRIS data in this model. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
 To download the IRIS dataset used in my program- https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view . You can also download it from Kaggle website.
