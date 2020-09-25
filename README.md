@@ -10,6 +10,9 @@ Most importantly, you must have Python 3.0 or any latest python module. Here is 
 
 TASK 1 ------ # SUPERVISED LEARNING - LINEAR REGRESSION
 
+In this piece, I am going to introduce the Linear Regression Model. Our problem is about predict the percentage of marks that a student is expected to score based upon the number of hours they studied.
+
+To download the IRIS dataset used in my program- http://bit.ly/w-data . You can add more data in this file for better training, but keep it in mind that it doesn't led to overftting.
 
 
 TASK 2 ------ # UNSUPERVISED LEARNING - kMEANS CLUSTERING
