@@ -40,3 +40,5 @@ TASK 4 ----- # EXPLORE BUSINESS ANALYTICS ON SAMPLESTORE DATASET
 Problem: You are the business owner of the retail firm and want to see how your company is performing. You are interested in finding out the weak areas where you can work to make more profit. What all business problems you can derive by looking into the data?
 
 I have used Power Business Intelligence to analyze the data with different visualization tools. It will show where the company is lacking.
+
+To download the Dataset used for analysis - https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
